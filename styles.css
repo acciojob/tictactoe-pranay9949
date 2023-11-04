@@ -2,3 +2,11 @@
 .display{
 	display:none;
 }
+
+.box{
+    height: 50px;
+    width:50px;
+    background-color: pink;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
